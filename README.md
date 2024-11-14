@@ -1,4 +1,4 @@
-# Análise de Roubos e Furtos de Celulares no Rio de Janeiro
+# Análise de Roubos e Furtos de Celulares no Rio de Janeiro entre 01/2014 e 09/2024
 
 Este repositório contém uma análise exploratória de dados sobre roubos e furtos de celulares nas regiões do Rio de Janeiro.
 
